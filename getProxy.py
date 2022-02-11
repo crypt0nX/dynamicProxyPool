@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import re
 import base64
 import os
-import util.check
 
 proxies = {
     'http': 'http://127.0.0.1:7890',
