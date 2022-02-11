@@ -1,6 +1,5 @@
 import sys
 import time
-import util.writeFile
 import requests
 from bs4 import BeautifulSoup
 import re
